@@ -1,0 +1,21 @@
+{
+    "profileName": "RepulsionProductionProfile_BestValidated",
+    "capturedUtc": "2026-10-25T00:03:37.7938256Z",
+    "sourceEngineClass": "vRepulsionHyperTuneEngine",
+    "targetRuntime": "Bezier Runtime Editor",
+    "physical": {
+        "totalChargeCoulombs": 1E-09,
+        "leafLengthMeters": 0.08,
+        "leafWidthMeters": 0.02,
+        "epsilon0": 8.8541878128E-12
+    },
+    "bem": {
+        "panelsAlongLength": 16,
+        "panelsAcrossWidth": 4,
+        "gaussOrder": 4,
+        "useAnalyticSelfPanelIntegral": true,
+        "useNearPanelRefinement": true,
+        "nearPanelDistanceMultiplier": 2.5,
+        "nearPanelSubdivisions": 2
+    }
+}

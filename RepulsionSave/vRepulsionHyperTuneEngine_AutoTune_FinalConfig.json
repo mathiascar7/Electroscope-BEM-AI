@@ -1,0 +1,10 @@
+{
+    "name": "NEAR_PANEL_REFINEMENT_HIGH_PRECISION",
+    "useAnalyticSelfPanelIntegral": true,
+    "useNearPanelRefinement": true,
+    "nearPanelDistanceMultiplier": 2.5,
+    "nearPanelSubdivisions": 2,
+    "panelsAlongLength": 16,
+    "panelsAcrossWidth": 4,
+    "gaussOrder": 4
+}
