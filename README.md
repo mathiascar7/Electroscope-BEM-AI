@@ -12,6 +12,10 @@ Electroscope is a Unity-based computational-physics research prototype that
 connects material-driven charging, parametric conductor geometry, and a 3D
 Boundary Element Method (BEM) solver.
 
+The Unity assets folder can be found in the following google drive 
+[https://drive.google.com/drive/folders/1z8hgQ2NnwVmtIyJEB9264Y3xW168Bqkj?usp=sharing
+](url)
+
 **Can a frontier LLM such as Gemini autonomously recover classical
 electrostatic relationships—including \(V=Q/C\), bilateral symmetry, and distal
 tip charge crowding—and synthesize source-attributed material profiles from
