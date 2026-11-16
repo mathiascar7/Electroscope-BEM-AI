@@ -118,7 +118,7 @@ $$
 $$
 \sigma_{\max}=\epsilon_0 E_{\mathrm{air}},
 \qquad
-\sigma = \operatorname{clamp}
+\sigma = \mathrm{clamp}
   \left(\sigma_{\mathrm{raw}},-\sigma_{\max},+\sigma_{\max}\right),
 \qquad
 Q_{\mathrm{gen}} = \sigma A_{\mathrm{swept}}.
